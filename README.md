@@ -1,6 +1,6 @@
 # Sales-Analytics (Power BI)
 
-### Executive Dashboard
+### EXEC DASHBOARD
 ![Project Screenshot](https://github.com/Slimsnapz/Sales-Analytics/blob/625d084d4bb41a372dee77424cc9c7a44d6dbbf9/images/Screenshot%202025-12-29%20095249.png)
 
 
@@ -29,7 +29,8 @@ This analysis focuses on answering the following questions:
 - Built a structured data model using fact and dimension tables
 - Created and managed relationships to ensure accurate reporting
 
-📌 *[OPTIONAL: INSERT DATA MODEL IMAGE HERE]*
+### DATA MODEL 
+![Project Screenshot](https://github.com/Slimsnapz/ision-Transformer--Image-Classification/blob/5c4523264ca1366eaf94d58cb56f853244673797/screenshots/Screenshot%202025-09-21%20072458.png)
 
 ## Metrics & Analysis
 Key measures and KPIs were created using DAX, including:
