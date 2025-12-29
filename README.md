@@ -46,7 +46,10 @@ All measures are dynamic and respond to user filters and slicers.
 - Drill-down capability for deeper analysis
 - Clean and intuitive layout focused on insight, not clutter
 
-📌 *[INSERT ADDITIONAL DASHBOARD SCREENSHOT HERE]*
+### CUSTOMER OVERVIEW 
+![Project Screenshot](https://github.com/Slimsnapz/Sales-Analytics/blob/a31e60c91a446b3baa5de3deab6caebb5a02c35d/images/Screenshot%202025-12-29%20095351.png)
+
+
 
 ## Tools Used
 - Power BI
