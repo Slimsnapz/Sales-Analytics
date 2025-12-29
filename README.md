@@ -60,14 +60,6 @@ All measures are dynamic and respond to user filters and slicers.
 - Power Query
 - DAX
 
----
-
-## Project Files
-📌 *[UPLOAD PBIX FILE HERE]*  
-*(Power BI Desktop is required to open the file.)*
-
----
-
 ## Outcome
 The final dashboard provides a clear and actionable view of sales performance, helping users quickly understand what is driving results and where opportunities for improvement exist.
 
