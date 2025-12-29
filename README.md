@@ -30,7 +30,7 @@ This analysis focuses on answering the following questions:
 - Created and managed relationships to ensure accurate reporting
 
 ### DATA MODEL 
-![Project Screenshot](https://github.com/Slimsnapz/ision-Transformer--Image-Classification/blob/5c4523264ca1366eaf94d58cb56f853244673797/screenshots/Screenshot%202025-09-21%20072458.png)
+![Project Screenshot](https://github.com/Slimsnapz/Sales-Analytics/blob/d23244d8de7d38407f22cb71a67910fab6d8604a/images/Screenshot%202025-12-29%20100459.png)
 
 ## Metrics & Analysis
 Key measures and KPIs were created using DAX, including:
