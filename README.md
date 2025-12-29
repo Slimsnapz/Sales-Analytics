@@ -49,7 +49,8 @@ All measures are dynamic and respond to user filters and slicers.
 ### CUSTOMER OVERVIEW 
 ![Project Screenshot](https://github.com/Slimsnapz/Sales-Analytics/blob/a31e60c91a446b3baa5de3deab6caebb5a02c35d/images/Screenshot%202025-12-29%20095351.png)
 
-
+### REGIONAL OVERVIEW 
+![Project Screenshot](https://github.com/Slimsnapz/Sales-Analytics/blob/8c70ac62398647bd4917b7ffe27a6f91ea37ea91/images/Screenshot%202025-12-29%20095430.png)
 
 ## Tools Used
 - Power BI
