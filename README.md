@@ -1,6 +1,7 @@
 # Sales-Analytics (Power BI)
 
-📌 *[INSERT MAIN DASHBOARD IMAGE HERE]*
+### Executive Dashboard
+![Project Screenshot](https://github.com/Slimsnapz/ision-Transformer--Image-Classification/blob/5c4523264ca1366eaf94d58cb56f853244673797/screenshots/Screenshot%202025-09-21%20072458.png)
 
 
 ## Project Overview
